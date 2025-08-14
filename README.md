@@ -1,7 +1,7 @@
 # Retail-Analysis-Team-Project-for-Coursework
 
 ## 📌 Project Overview
-This is the final project for the Business Analytics course at university. It is an exploratory data analysis of a retail company’s sales, customer, and product dataset provided by our professor. The objective was to independently define key business questions and uncover insights to improve business performance. The analysis was presented through an interactive Power BI dashboard.
+This is the final project for the Business Analytics course at university. It is an exploratory data analysis of a retail company’s sales, customer, and product dataset provided by our lecturer. The objective was to independently define key business questions and uncover insights to improve business performance. The analysis was presented through an interactive Power BI dashboard.
 
 ## 🏆 Team Result
 - Evaluated on analytical approach, dashboard quality, and actionability  
