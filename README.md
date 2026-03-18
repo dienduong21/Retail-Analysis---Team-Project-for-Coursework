@@ -9,7 +9,7 @@ This is the final project for the Business Analytics course at university. It is
 
 ---
 
-## 🎯 Report Objectives
+## 🎯 Project Objectives
 - Understand performance trends across time, geography, customer segments, and product categories.  
 - Identify high-performing markets, behaviors, and assortment opportunities.  
 - Propose data-driven strategies for pricing, marketing, and operations.
@@ -23,7 +23,7 @@ This is the final project for the Business Analytics course at university. It is
 
 ---
 
-## 2. Tools & Techniques Used
+## 2. Tools & Techniques 
 - **Excel**: data understanding, cleaning, descriptive statistics  
 - **Power BI**: data modeling, visualization, basic forecasting  
 - **Transformations**: VLOOKUP/XLOOKUP, custom lookup tables, data type fixes, anomaly detection  
